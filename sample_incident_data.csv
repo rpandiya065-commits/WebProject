@@ -1,0 +1,6 @@
+Number,Short description,Description,Caller,Priority,State
+INC10001,Email access issue,User cannot access company email,abel.tan,2,New
+INC10002,Laptop performance issue,Laptop is running slowly,abel.tan,3,In Progress
+INC10003,VPN connection problem,User cannot connect to VPN,abel.tan,2,New
+INC10004,Printer not working,Office printer is not printing,abel.tan,3,New
+INC10005,Password reset request,User requested a password reset,abel.tan,4,Resolved

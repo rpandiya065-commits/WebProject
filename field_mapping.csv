@@ -1,0 +1,7 @@
+Source Field,Target Field,Mapping Type,Notes
+Number,number,Direct,Use as unique incident reference if permitted
+Short description,short_description,Direct,Required incident summary
+Description,description,Direct,Full issue description
+Caller,caller_id,Reference,Must match an existing user
+Priority,priority,Direct,Validate against instance choice values
+State,state,Direct,Validate against target table choice values
